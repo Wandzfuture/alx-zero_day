@@ -1,2 +1,2 @@
-My first readme
-some discription for git
+My first readme on git
+some discription for git project
